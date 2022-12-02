@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class test {
 
     String string = "test";
-    int num = 1;
+    int num = 0;
 
     @Test
     void isNumber()
